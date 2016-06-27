@@ -41,12 +41,16 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  your are the center of our attention
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  just write the name of your book in the boxbar
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  i wish it to be a good refernce
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  download your favourite book and start this journy 
