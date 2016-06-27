@@ -18,18 +18,26 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Join Book Club now And Find Your Book Here
+
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  for all people don't waste more time join us now
+
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  for All people wanna spend there time in useful and fun way join us and Say good Bye TO Boredom 
 
 ## Problem ##
   > Describe the problem your product solves.
+ finding a good book to read in a short time 
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+   searching easily on any book you want 
+
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
