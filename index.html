@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Book Club</title>
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles/style.css">
+  <script type="text/javascript" src="https://www.google.com/books/jsapi.js"></script>
+  <script type="text/javascript">google.books.load()</script>
+  <script type="text/javascript">google.books.load({"language": "en"})</script>
+  <script src="node_modules/jquery/dist/jquery.js"></script>
+  <script src="node_modules/react/dist/react.js"></script>
+  <script src="node_modules/react-dom/dist/react-dom.js"></script>
+  <script src="node_modules/lodash/lodash.js"></script>
+</head>
+<style>
+body  {
+  background-image: url('1.jpg');
+  background-repeat: no-repeat;
+   background-size: 1500px 1400px; 
+}
+</style>
+<body>
+<img src="2.jpg" id="mylogo" height="150" width="600">
+
+  <div id="app" ></div>
+  <script src="src/data/exampleVideoData.js"></script>
+  <script src="src/config/google.js"></script>
+  <script src="src/lib/searchGoogle.js"></script>
+  <script src="compiled/src/components/BookListEntry.js"></script>
+  <script src="compiled/src/components/BookList.js"></script>
+  <script src="compiled/src/components/Nav.js"></script>
+  <script src="compiled/src/components/Search.js"></script>
+  <script src="compiled/src/components/dropbox.js"></script>
+  <script src="compiled/src/components/App.js"></script>
+  <script src="compiled/src/index.js"></script>
+</body>
+</html>
